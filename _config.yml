@@ -89,8 +89,7 @@ deploy:
 backup:
   type: git
   message: backup my blog of https://machiny.github.io/
-  repository:
-    github: git@github.com:machiny/machiny.github.io.git,backup
+  repository: git@github.com:machiny/machiny.github.io.git,backup
     # github: https://github.com/honjun/honjun.github.io.git,backup
     # coding: https://git.coding.net/hojun/hojun.git,backup
 
