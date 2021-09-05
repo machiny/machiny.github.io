@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 author: machiny
-avatar: https://wx1.sinaimg.cn/large/006bYVyvgy1ftand2qurdj303c03cdfv.jpg
+avatar: https://cdn.jsdelivr.net/gh/machiny/blog-img@0.1/img/custom/avatar.png
 categories: 生活
 comments: true
 tags: 
